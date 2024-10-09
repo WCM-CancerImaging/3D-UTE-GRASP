@@ -9,6 +9,7 @@
 
 - It was tested only with v3.3. To be tested for other Paravision 360 versions.
 - It works with single echo or double echoes 3D UTE acquisition.
+- An example dataset can be available upon request to Gene kim (sgk4001@med.cornell.edu).
 
 ## Citation:
 If you use this, please cite Zhang et al (MRM 2019) in the references.
