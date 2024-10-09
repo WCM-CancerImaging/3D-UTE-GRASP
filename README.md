@@ -1,4 +1,5 @@
-# 3D-UTE-GRASP MRI: Installation and Reconstruction (by Jin Zhang, PhD)
+# 3D-UTE-GRASP MRI
+Pulse sequence modification and image reconstruction (by Jin Zhang, PhD)
 
 ## Bruker Paravision 360 v3.3 
 * Files/folders in 3DUTEGRASP-BrukerParavision360v3.3 folder
